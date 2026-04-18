@@ -49,7 +49,7 @@ def build_exe():
 
 root = Tk()
 root.title("🎀 雌小鬼·Python一键打包EXE 🎀")
-root.geometry("550x220")
+root.geometry("590x220")
 root.resizable(False, False)
 
 py_path_var = StringVar()
